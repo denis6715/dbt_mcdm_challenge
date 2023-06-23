@@ -6,7 +6,6 @@ The table contains the following fields, let's consider them by meaning:
     add_to_cart - number of additions to the cart
     
     clicks - count of clicks
-    
     comments - count of comments
     engagements - different types of interactions such as link clicks, likes, shares, views(post and video) comments and so on
     impressions - count of impressions
