@@ -3,8 +3,8 @@ Dashboard link https://lookerstudio.google.com/reporting/b0163344-a049-4b24-abc9
 
 To include a new data source in a mogel, you need to populate the table and merge with existing data using the UNION ALL command.
 The table contains the following fields, let's consider them by meaning:
+
     add_to_cart - number of additions to the cart
-    
     clicks - count of clicks
     comments - count of comments
     engagements - different types of interactions such as link clicks, likes, shares, views(post and video) comments and so on
