@@ -1,4 +1,5 @@
 You can see my model, named paid_ads_basic_performance.sql in folder models
+
 Dashboard link https://lookerstudio.google.com/reporting/b0163344-a049-4b24-abc9-65fa971c6060
 
 To include a new data source in a mogel, you need to populate the table and merge with existing data using the UNION ALL command.
