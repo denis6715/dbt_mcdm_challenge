@@ -2,7 +2,7 @@ You can see my model, named paid_ads_basic_performance.sql in folder models
 
 Dashboard link https://lookerstudio.google.com/reporting/b0163344-a049-4b24-abc9-65fa971c6060
 
-To include a new data source in a mogel, you need to populate the table and merge with existing data using the UNION ALL command.
+To include a new data source in a model, you need to fill the table and add it by the UNION ALL command to the model select.
 The table contains the following fields, let's consider them by meaning:
 
     add_to_cart - number of additions to the cart
